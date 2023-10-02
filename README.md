@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am a front-end developer passionate about accessibility in web applications and websites. Front-end Development is one of the many passions I pursue outside of my day job. Some of my other passions include but are not limited to:
+
+- 🌱 I'm currently learning Front-end development and design
+- 🔭 I'm currently working on an e-Commerce website about cats for fun about buying and selling Cats. No Cats will be harmed in the making or using this product. Coming Soon!
+- 🐶 I love Dogs and cats above all else, but all other animals are super cool too
+- ⚡ I am passionate about retro game design and development. Not so much playing them anymore except select few like '90s to early 2000s style games. Specifically, role-playing games. I love talking about game design and development in general, though!
 <!--
 **PLyn/PLyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
