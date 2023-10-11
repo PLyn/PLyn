@@ -5,7 +5,7 @@ I am a front-end developer passionate about accessibility in web applications an
 - 🌱 I'm currently learning Front-end development and design.
 - 🔭 I'm currently working on an e-Commerce website about cats for fun about buying and selling Cats. No Cats will be harmed in the making or using this product. Coming Soon!
 - 🐶 I'm an animal lover primarily Dogs and Cats, but all other animals are super cool too!
-- ⚡ I am passionate about retro game design and development. Not so much playing them anymore except select few like '90s to early 2000s style games. Specifically, role-playing games. I love talking about game design and development in general.
+- ⚡ I'm passionate about retro game design and development. Not so much playing them anymore except for some old role-playing games. I love talking about game design and development in general.
 <!--
 **PLyn/PLyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
