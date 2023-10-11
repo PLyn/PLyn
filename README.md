@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I front-end developer passionate about accessibility in web applications and websites. Front-end Development is one of the many passions I pursue outside of my day job. Some of my other passions include but are not limited to:
+I am a front-end developer passionate about accessibility in web applications and websites. Front-end Development is one of the many passions I pursue outside of my day job. Some of my other passions include but are not limited to:
 
 - 🌱 I'm currently learning Front-end development and design.
 - 🔭 I'm currently working on an e-Commerce website about cats for fun about buying and selling Cats. No Cats will be harmed in the making or using this product. Coming Soon!
