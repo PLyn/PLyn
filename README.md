@@ -1,7 +1,5 @@
 ### Hi there 👋
-
-- 🐶 I'm an animal lover primarily Dogs and Cats, but all other animals are super cool too!
-- ⚡ I'm passionate about retro game design and development. I love talking about game design and development in general.
+This is my learning area where I experiment with all sorts of stuff from frontend to backend to game dev. I love learning and trying out new stuff!
 <!--
 **PLyn/PLyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
