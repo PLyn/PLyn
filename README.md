@@ -1,5 +1,5 @@
 ### Hi there 👋
-This is my learning area where I experiment with all sorts of stuff from frontend to backend to game dev. I love learning and trying out new stuff!
+This is my experimental learning area mostly in the areas frontend, backend and game dev. Maybe one day, I will get around to reaching somewhere significant in the many experiments and half-done projects to make them public😄
 <!--
 **PLyn/PLyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
